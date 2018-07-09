@@ -1,0 +1,7 @@
+carro familiar (googlecar) que va en una carretera y hay que determinar el tiempo que se tarda del punto a al punto b
+
+velocidad y angulo del viento
+n baches 
+catidad de gasolina
+n pasajeros
+velocidad que va el auto
